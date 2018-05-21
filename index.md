@@ -1,3 +1,6 @@
+<div data-configid="7887103/61554309" style="width:400px; height:283px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/faroukzouari/livre.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
